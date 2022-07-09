@@ -1,0 +1,9 @@
+ls
+cd
+pfetch 
+ls
+rm SimpleFox-Feather/
+rm -rf SimpleFox-Feather/
+rm -rf firefox-minima/
+ls
+pfetch 
